@@ -1,1 +1,1 @@
-# bookbot
+BookBot is a Python pet project.
